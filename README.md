@@ -1,5 +1,5 @@
 # KGovDocBench
-A Benchmark to evaluate the ability to understand insane South Korean Government's '보고서's
+A Benchmark to evaluate the ability to understand insane South Korean Government 보고서's
 
 ## Sources
 
@@ -14,11 +14,10 @@ A Benchmark to evaluate the ability to understand insane South Korean Government
 - MCQ (Multiple Choice Question) or short definite answers
     - not the entire annotations
 - 각 카테고리별 여러개의 문서
-- 한 문서당 여러개의 질문
-- 5번 반복해서 평균점수 계산
+- 같은 질문을 5번 반복해서 평균 계산
     - ml은 probabilistic 하기 때문
-- 과도한 Reasoning 없게 최대한 단순한 질의
-- sanity check을 위한 쉬운 질문 20%
+- 과도한 reasoning 없게 최대한 단순한 질의
+- sanity check을 위해 쉬운 질문 20%
 
 ## Categories
 
@@ -47,5 +46,5 @@ A Benchmark to evaluate the ability to understand insane South Korean Government
 ## TODO
 
 - actual grounding truth / annotation
-    - 절차도, 조직도는 mermaid로
-    - 표는 html
+    - 절차도, 조직도: mermaid
+    - 표: html with each line's header information for merged cells
