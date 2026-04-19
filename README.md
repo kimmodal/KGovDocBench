@@ -11,7 +11,8 @@ A Benchmark to evaluate the ability to understand insane South Korean Government
 
 ## Protocol
 
-- MCQ (Multiple Choice Question)
+- MCQ (Multiple Choice Question) or short definite answers
+    - not the entire annotations
 - 각 카테고리별 여러개의 문서
 - 한 문서당 여러개의 질문
 - 5번 반복해서 평균점수 계산
