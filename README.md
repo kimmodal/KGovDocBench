@@ -1,5 +1,5 @@
 # KGovDocBench
-A Benchmark to evaluate the ability to read insane South Korean Government's '보고서's
+A Benchmark to evaluate the ability to understand insane South Korean Government's '보고서's
 
 ## Sources
 
