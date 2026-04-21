@@ -26,6 +26,7 @@ A Benchmark to evaluate the ability to understand insane South Korean Government
     - 셀 병합
         - 비중
     - 여러 페이지에 걸쳐있는 커다란 표
+    - 단위/범례
 - 시각적 정보 #1: 표의 ‘형식’을 가졌으나, 실제로는 다른 용도로 쓰이는 것
     - 표로 만든 조직도
     - 표로 만든 절차도
